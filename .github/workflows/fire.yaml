@@ -9,10 +9,16 @@ jobs:
   event-1:
     name: event 1
     runs-on: ubuntu-latest
-     steps:
+    steps:
        - name: Run shell commands
          run: |
            echo "call me king"
            pwd
            whoami
+       -name:
+         quick books
+
+        run:
+
+          echo "Call Him King"
                                                                             
