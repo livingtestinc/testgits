@@ -16,7 +16,7 @@ jobs:
          ubuntu-latest
      steps:
 
-       - name:
+       -name:
            step1
          run:
            | echo "call me up now"
